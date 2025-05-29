@@ -37,6 +37,4 @@ Here are some good texts you can use in your app or marketing materials:
 - Plan, explore, and book—all in one place.
 - Your adventure in Draa-Tafilalet starts here!
 
----
 
-You can use these texts in your onboarding screens, banners, or app store listing to attract and engage users.
