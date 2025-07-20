@@ -2,14 +2,12 @@
 My App is a travel and tourism app focused on the Draa-Tafilalet region of Morocco. 
 Collecting workspace informationYour application is a travel and tourism app focused on the Draa-Tafilalet region of Morocco. It helps users discover attractions, hotels, experiences, and cities in the region, providing detailed information, interactive maps, and booking features. The app uses a modern Flutter UI, integrates with Firebase for data, and offers a visually rich experience with images and videos.
 
-Here are some good texts you can use in your app or marketing materials:
-
 ---
 **App Installation link :**
 - you can downloade the apk of the app from this link :
 https://drive.google.com/file/d/1HjLYf2_pYLG48UYsdZoZp35FubRuTJpu/view?usp=sharing
 - or scan this QR code :
-![QRcode](TafilaltGo-APK-install/frame(1).png)
+<img src="/frame(1).png" width="30%">
 
 
 **App Description:**
@@ -20,7 +18,7 @@ https://drive.google.com/file/d/1HjLYf2_pYLG48UYsdZoZp35FubRuTJpu/view?usp=shari
 
 ---
 
-**Welcome Texts:**
+**Welcome**
 
 - Welcome to TafilaletGo! Start your journey through Morocco’s hidden gems.
 - Experience the magic of the Sahara and the rich heritage of Draa-Tafilalet.
@@ -34,13 +32,4 @@ https://drive.google.com/file/d/1HjLYf2_pYLG48UYsdZoZp35FubRuTJpu/view?usp=shari
 - **Nearby Hotels:** Stay in comfort and style, close to the region’s top destinations.
 - **Experiences:** Book unique adventures and cultural activities.
 - **Explore the Map:** Navigate the region and find attractions near you.
-
----
-
-**Promotional Texts:**
-
-- Unlock the secrets of Morocco’s desert heartland.
-- Plan, explore, and book—all in one place.
-- Your adventure in Draa-Tafilalet starts here!
-
 
