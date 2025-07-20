@@ -5,6 +5,12 @@ Collecting workspace informationYour application is a travel and tourism app foc
 Here are some good texts you can use in your app or marketing materials:
 
 ---
+**App Installation link :**
+- you can downloade the apk of the app from this link :
+https://drive.google.com/file/d/1HjLYf2_pYLG48UYsdZoZp35FubRuTJpu/view?usp=sharing
+- or scan this QR code :
+![QRcode](TafilaltGo-APK-install/frame(1).png)
+
 
 **App Description:**
 
